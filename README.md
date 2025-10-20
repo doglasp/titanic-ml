@@ -174,7 +174,7 @@ Feature importance visualization:
 ## 👤 Author
 
 **Doglas Parise, PhD**    
-🔗 [LinkedIn](https://www.linkedin.com/in/doglasparise)  
+🔗 [LinkedIn](https://www.linkedin.com/in/doglas-parise)  
 💻 [GitHub](https://github.com/doglasp)
 
 ---
