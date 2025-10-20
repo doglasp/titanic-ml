@@ -158,7 +158,7 @@ print(preds[:10])
 
 Feature importance visualization:  
 *(example)*  
-![Feature Importance](outputs/titanic_feature_sel_20251015-143210_importance.png)
+![Feature Importance](outputs/titanic_feature_sel_20251019-214416_importance.png)
 
 ---
 
