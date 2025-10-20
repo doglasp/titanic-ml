@@ -1,0 +1,7 @@
+Selected: 6 / 11
+AUC (CV=5): 0.8506
+Accuracy (test): 0.7848
+ROC-AUC  (test): 0.8427
+Confusion matrix:
+[[106  31]
+ [ 17  69]]

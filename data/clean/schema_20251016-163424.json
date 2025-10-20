@@ -1,0 +1,17 @@
+{
+  "columns": {
+    "PassengerId": "int64",
+    "Survived": "int64",
+    "Pclass": "int64",
+    "Name": "string",
+    "Sex": "string",
+    "Age": "float64",
+    "SibSp": "int64",
+    "Parch": "int64",
+    "Ticket": "string",
+    "Fare": "float64",
+    "Cabin": "string",
+    "Embarked": "string"
+  },
+  "rows": 891
+}

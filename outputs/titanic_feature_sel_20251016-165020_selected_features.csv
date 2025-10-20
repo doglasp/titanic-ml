@@ -1,0 +1,7 @@
+feature
+Pclass
+Age
+SibSp
+Sex_female
+Sex_male
+Embarked_S

@@ -13,15 +13,6 @@ venv/
 .ipynb_checkpoints/
 *.sage-jupyter
 
-# Dados e artefatos (não subir!)
-data/raw/*
-data/clean/*
-!data/raw/.gitkeep
-!data/clean/.gitkeep
-
-outputs/*
-!outputs/.gitkeep
-
 # Modelos pesados
 *.joblib
 *.pkl
