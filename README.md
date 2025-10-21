@@ -181,4 +181,4 @@ Feature importance visualization:
 
 ## 📝 License
 
-This project is released under the **MIT License**.
+This project is released under the [Licença MIT](LICENSE.txt).
